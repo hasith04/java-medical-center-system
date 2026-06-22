@@ -4,6 +4,7 @@ A comprehensive JSP/Servlet-based web application for managing medical center op
 
 ## Table of Contents
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Prerequisites](#prerequisites)
 - [Database Setup](#database-setup)
 - [Project Structure](#project-structure)
@@ -23,6 +24,17 @@ A comprehensive JSP/Servlet-based web application for managing medical center op
 - **User Roles**: Support for multiple user roles (Doctor, Pharmacist, Medicine Distributor, Employee, Student)
 - **Secure Authentication**: User login verification
 - **Image Management**: Store and retrieve medical images and documents
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/01-login-page.png)
+
+### Dashboard
+![Dashboard](screenshots/02-dashboard.png)
+
+### Prescription Page
+![Prescription Page](screenshots/03-prescription-page.png)
 
 ## Prerequisites
 
