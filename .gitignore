@@ -1,0 +1,40 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Build
+target/
+build/
+dist/
+*.log
+
+# Tomcat
+tools/apache-tomcat-9.0.118/work/
+tools/apache-tomcat-9.0.118/logs/
+tools/apache-tomcat-9.0.118/temp/
+tools/apache-tomcat-9.0.118/webapps/*/
+
+# Database
+*.sql~
+*.bak
+
+# System
+.env
+.env.local
+*.properties.local
+
+# Node (if using npm)
+node_modules/
+package-lock.json
