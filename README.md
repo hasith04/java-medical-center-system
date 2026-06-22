@@ -27,13 +27,13 @@ A comprehensive JSP/Servlet-based web application for managing medical center op
 
 ## Screenshots
 
-### Login Page
+### 
 ![Login Page](screenshots/01-login-page.png)
 
-### Dashboard
+###
 ![Dashboard](screenshots/02-dashboard.png)
 
-### Prescription Page
+### 
 ![Prescription Page](screenshots/03-prescription-page.png)
 
 ## Prerequisites
