@@ -31,7 +31,7 @@ A comprehensive JSP/Servlet-based web application for managing medical center op
 ![Login Page](screenshots/01-login-page.png)
 
 ###
-![Regestration Page](screenshots/02-reegstration)
+![Regestration Page](screenshots/02-reegstration.png)
 
 ### 
 ![Prescription Page](screenshots/03-prescription-pagee.png)
